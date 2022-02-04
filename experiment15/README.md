@@ -1,2 +1,2 @@
           EXPERIMENT 15
-Write a C++ on file streams
+Write a C++ program on file streams
